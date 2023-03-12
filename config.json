@@ -1,0 +1,6 @@
+{
+	"ip":"nchnetwork.aternos.me:18790",
+	"port": "25565",
+	"name": "NRBot",
+	"auto-night-skip":"true"
+}
